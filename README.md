@@ -8,7 +8,7 @@ I chose Option 1 (Python dictionary methods) for extracting and transforming the
 
 campaign.csv should be the last file imported as it is dependent on the other three CSV files.
 
-Below is a screenshot of crowfunding_db created in PostgreSQL with successful imports for the CSV files. 
+Below is a screenshot of crowdfunding_db created in PostgreSQL with successful imports for the CSV files. 
 
 ![Screenshot 2024-02-05 204840](https://github.com/sharvil-koonjul/Crowdfunding_ETL/assets/139473802/fa3a6d17-4552-462a-bb41-edd3c6afe230)
 
